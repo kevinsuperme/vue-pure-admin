@@ -2,12 +2,16 @@
   "default": true,
   "MD001": false,
   "MD013": false,
+  "MD022": false,
   "MD024": false,
   "MD025": false,
+  "MD032": false,
   "MD033": false,
   "MD034": false,
   "MD038": false,
   "MD039": false,
+  "MD040": false,
+  "MD051": false,
   "heading-increment": false,
   "no-duplicate-heading": false,
   "single-h1": false,
@@ -15,5 +19,9 @@
   "no-inline-html": false,
   "no-bare-urls": false,
   "no-space-in-code": false,
-  "no-space-in-links": false
+  "no-space-in-links": false,
+  "blanks-around-headings": false,
+  "blanks-around-lists": false,
+  "fenced-code-language": false,
+  "link-fragments": false
 }
