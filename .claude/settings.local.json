@@ -11,7 +11,12 @@
       "Bash(for file in *.md checklists/*.md)",
       "Bash(do:*)",
       "Bash(tail:*)",
-      "Bash(done:*)"
+      "Bash(done:*)",
+      "Bash(awk:*)",
+      "Bash(npx unimported@latest:*)",
+      "Bash(npx depcheck:*)",
+      "Bash(pnpm list:*)",
+      "Bash(npx depcheck@latest:*)"
     ],
     "deny": [],
     "ask": []

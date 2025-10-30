@@ -18,7 +18,6 @@
     // Note: baseUrl is deprecated with moduleResolution: "bundler" but required for paths
     // Path resolution is handled by Vite (vite.config.ts), this is for IDE support only
     "baseUrl": ".",
-    "ignoreDeprecations": "6.0",
     "allowJs": false,
     "resolveJsonModule": true,
     "lib": [
