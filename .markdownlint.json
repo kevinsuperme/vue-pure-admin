@@ -1,11 +1,19 @@
 {
   "default": true,
-  "MD003": false,
-  "MD033": false,
-  "MD013": false,
   "MD001": false,
-  "MD025": false,
+  "MD013": false,
   "MD024": false,
-  "MD007": { "indent": 4 },
-  "no-hard-tabs": false
+  "MD025": false,
+  "MD033": false,
+  "MD034": false,
+  "MD038": false,
+  "MD039": false,
+  "heading-increment": false,
+  "no-duplicate-heading": false,
+  "single-h1": false,
+  "line-length": false,
+  "no-inline-html": false,
+  "no-bare-urls": false,
+  "no-space-in-code": false,
+  "no-space-in-links": false
 }

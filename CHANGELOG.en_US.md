@@ -229,7 +229,7 @@ The addresses of the document site and full version preview site have been chang
 
 ### 🐞 Bug fixes
 
-- Fixed the scroll bar issue when clicking on the registration page under `windwos`
+- Fixed the scroll bar issue when clicking on the registration page under `windows`
 - Fixed the problem of scroll bars appearing in the content area when switching pages under `windows`
 - Fixed the problem of status style disappearing in `pure-table` with status table under dark overall style
 - Fixed the problem of turning on the gray mode and dark overall style in the project configuration and refreshing the overall style of the page.
@@ -372,7 +372,7 @@ Totally `ESM` version
 ### 🍏 Perf
 
 - Change `VITE_PUBLIC_PATH` to `./` by default to be compatible with more path scenarios,
-- Compatible with the `OSS` scene where `VITE_PUBLIC_PATH` is `url`, need to upgrade `@pureadin/theme` to the latest version
+- Compatible with the `OSS` scene where `VITE_PUBLIC_PATH` is `url`, need to upgrade `@pureadmin/theme` to the latest version
 
 # 4.4.0 (2023-06-14)
 

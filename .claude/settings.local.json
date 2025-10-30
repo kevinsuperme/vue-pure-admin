@@ -6,7 +6,9 @@
       "Bash(pnpm view:*)",
       "Bash(timeout:*)",
       "Bash(pnpm vitest --version)",
-      "Bash(pnpm vitest run:*)"
+      "Bash(pnpm vitest run:*)",
+      "Bash(test:*)",
+      "Bash(npx cspell:*)"
     ],
     "deny": [],
     "ask": []
